@@ -1,6 +1,7 @@
 # Strapi example
 
 This example deploys self-hosted version of [Strapi](https://strapi.io/). Internally it uses a PostgreSQL database to store the data.
+The template was modified to host the database of my portfolio website.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/strapi?referralCode=milo)
 
